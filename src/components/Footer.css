@@ -1,0 +1,24 @@
+.footer {
+  background-color: var(--footer-color);
+  color: white;
+}
+.footer h6 {
+  font-weight: 600;
+  font-size: 17px;
+  margin-bottom: 13px;
+}
+.footer p {
+  font-size: 15px;
+}
+.footer-text li {
+  list-style: none;
+  font-size: 15px;
+}
+.footer-text {
+  padding: 0;
+}
+.contact-sec input {
+  background-color: transparent;
+}
+.contact-sec button {
+}
