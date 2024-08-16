@@ -5,6 +5,10 @@
   padding: 0;
   font-family: "Montserrat", sans-serif;
 }
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
 :root {
   --primary-color: #030304;
   --secondary-color: #454545;

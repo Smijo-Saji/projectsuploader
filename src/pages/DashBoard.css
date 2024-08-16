@@ -1,0 +1,38 @@
+/* profile */
+.profile-desc p {
+  text-align: center;
+}
+.profile-desc p b {
+  font-size: 18px;
+}
+.active {
+  font-size: 20px;
+}
+.profile-icon img {
+  width: 230px;
+  height: 230px;
+}
+
+.icons i {
+  margin-right: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.addproject-modal {
+  color: black;
+}
+
+input:focus {
+  color: black !important   ;
+  border: 0;
+  outline: none;
+}
+.profile-desc input {
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+.profile-desc input:focus {
+  color: var(--text-color) !important;
+  background-color: transparent;
+}

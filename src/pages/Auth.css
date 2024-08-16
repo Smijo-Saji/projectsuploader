@@ -27,10 +27,10 @@
   height: 50px;
   margin-bottom: 1.5rem;
 }
-input:focus {
+/* input:focus {
   background-color: transparent !important;
   color: var(--text-color) !important;
-}
+} */
 .button-register {
   position: relative;
   padding: 10px 22px;
